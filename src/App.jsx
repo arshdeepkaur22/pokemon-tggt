@@ -125,7 +125,7 @@ const App = () => {
         Made by Arshdeep Kaur 
       </footer>
 
-      {/* MODAL */}
+     
       {selectedPokemon && modalData && (
         <div className="fixed inset-0 bg-black bg-opacity-50 flex justify-center items-center z-50">
           <div className="bg-white dark:bg-gray-800 p-6 rounded-lg shadow-lg max-w-md w-full text-center relative">
